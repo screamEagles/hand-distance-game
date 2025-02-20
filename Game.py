@@ -1,5 +1,5 @@
 import cv2
-from cvzone.HandTrackingModule import HandDetector
+from cvzone.HandTrackingModule import HandDetector  # cvzone version: 1.5.3
 import math
 import numpy as np
 import cvzone
